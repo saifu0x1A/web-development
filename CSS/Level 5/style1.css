@@ -1,0 +1,25 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(4);
+    transition-delay: 1ms; */
+    /* transform: all 2s ease-in 1s; */
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transform: rotate(45deg);
+}
+
+div:hover {
+    background-color: red;
+    color: white;
+    font-size: 10px;
+}
+
+div:active {
+    background-color: green;
+}

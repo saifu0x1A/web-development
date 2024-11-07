@@ -1,0 +1,16 @@
+div {
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}

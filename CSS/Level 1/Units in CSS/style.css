@@ -1,0 +1,13 @@
+#one {
+    font-size: 10px;
+}
+
+#two {
+    color: red;
+    font-size: 25px;
+    line-height: 2;
+}
+
+#three {
+    text-transform: capitalize;
+}

@@ -1,0 +1,30 @@
+/* body {
+    background-color:blueviolet;
+}
+
+#div1 {
+    height: 50px;
+    width: auto;
+    color: orange;
+    background-color: black;
+    border: 2px solid white;
+    padding-left: 2px;
+}
+
+#searchbutton {
+    color: black;
+    background-color: white;
+}
+
+#button {
+    color: white;
+    background-color: orange;
+    margin-top: 4px;
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}

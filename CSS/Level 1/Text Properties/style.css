@@ -1,0 +1,31 @@
+p {
+    text-align: start;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+#heading2 {
+    font-weight: 100;
+    color: white;
+    background-color: black;
+}
+
+#heading3 {
+    font-weight: bolder;
+    color: red;
+}
+
+#one {
+    font-family: Arial;
+}
+
+#two {
+    font-family: cursive, serif, sans-serif, fantasy, monospace;
+}

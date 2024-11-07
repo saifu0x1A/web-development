@@ -1,0 +1,26 @@
+body {
+    line-height: 2;
+}
+
+p {
+    border: 2px solid green;
+}
+
+h1 {
+    background-color: aquamarine;
+    height: 75px;
+    width: 200px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+}
+
+div {
+    background-color: pink;
+    height: 50px;
+    width: 150px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+}

@@ -1,0 +1,10 @@
+div {
+    height: 400px;
+    width: 300px;
+    background-image: url(lion.avif);
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+}

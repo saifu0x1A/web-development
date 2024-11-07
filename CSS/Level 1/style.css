@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+button {
+    background-color: yellow;
+}
+
+body {
+    background: white;
+}
+
+#heading1 {
+    color: green;
+}
+
+#heading2 {
+    color: magenta;
+}
+
+.myClass {
+    color: red;
+}
